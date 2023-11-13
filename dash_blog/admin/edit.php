@@ -52,7 +52,7 @@ try{
 <main>
     <div>
         <?php require_once 'const_header.php'; ?>
-        <a href="dashboard.php">Revenir au listing</a>
+        <a href="dashboard.php" class="col">← Revenir au listing</a>
         <p>
             Modifier un article dans la base de donnees.
         </p>
