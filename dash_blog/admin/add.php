@@ -43,7 +43,7 @@ try{
 <main>
     <div>
         <?php require_once 'const_header.php'; ?>
-        <a href="dashboard.php" class="col">←Revenir au listing</a>
+        <a href="dashboard.php" class="col">← Revenir au listing</a>
         <p>
             Ajouter un article a la base de donnees.
         </p>
