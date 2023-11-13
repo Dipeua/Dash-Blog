@@ -4,7 +4,7 @@ Dash Blog, c'est avant tout une aventure personnelle dans le monde du développe
 
 L'interface d'administration:
 
-[dash_blog_banner](./banner.png)
+![dash_blog_banner](./banner.png)
 
 ### 🚀 À Propos de Dash-Blog
 Dash-Blog n'est pas encore un blog complet, mais c'est mon terrain de jeu pour perfectionner mes compétences en back-end avec PHP. Il offre actuellement les fonctionnalités suivantes :
