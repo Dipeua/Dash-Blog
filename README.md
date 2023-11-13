@@ -8,6 +8,7 @@ Dash-Blog n'est pas encore un blog complet, mais c'est mon terrain de jeu pour p
 
 - **Consultation d'articles:** Les utilisateurs peuvent parcourir et lire les articles disponibles sur le blog.
 - **Tableau de bord administratif:** Réservé aux administrateurs, cet espace permet d'ajouter ➕, de modifier ✏️, de supprimer 🗑️ et de rechercher 🔍 des articles.
+- **Integration du WYSIWYG (What You See Is What You Get)**
 
 ### Technologies Utilisées
 - HTML5: 🌐 Structure de base pour la présentation.
