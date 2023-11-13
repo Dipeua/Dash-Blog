@@ -10,7 +10,7 @@ $articles = $pdo->query("SELECT * FROM articles ORDER BY id DESC LIMIT 5")->fetc
 <main>
     <h1>Welcome to Dash Blog</h1>
     <p>
-        Dash Blog est une application web qui un implemente les fonctionnalitees d'un blog. vous pouvez controller le site en accedant au <a href="admin/dashboard.php" title="les identifiants par defaut sont admin:admin">Dashboard</a>
+        Dash Blog est une application web qui un implemente les fonctionnalitees d'un blog. vous pouvez controller le site en accedant au <a href="admin/dashboard.php" title="les identifiants par defaut sont admin:admin" class="col">Dashboard</a>
     </p>
     <?php foreach($articles as $article): ?>
         <div class="blog_container">
