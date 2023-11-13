@@ -23,7 +23,7 @@ Dash-Blog n'est pas encore un blog complet, mais c'est mon terrain de jeu pour p
 ### À Venir
 Bien que Dash-Blog soit actuellement un projet d'apprentissage, j'ai des plans pour le développer davantage. Des fonctionnalités plus avancées et des améliorations de l'interface utilisateur sont dans mes objectifs futurs.
 
-### 👥 Comment Contribuer
+### 👥 Contribuer
 🤝 J'encourage toute contribution à Dash-Blog ! Si vous êtes intéressé(e), n'hésitez pas à cloner le projet, à proposer des améliorations ou à signaler des problèmes. Vos idées sont les bienvenues.
 
  @Ber1y
