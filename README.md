@@ -1,7 +1,10 @@
 # Dash-Blog
+Passionné par le back-end, j'aimerais  présenter mon projet personnel, "Dash-Blog".
 Dash Blog, c'est avant tout une aventure personnelle dans le monde du développement web. Ici, vous ne trouverez pas de termes alambiqués ni de concepts complexes. Je suis encore un junior, tout comme beaucoup d'entre vous, et je partage ouvertement mes découvertes, mes erreurs et mes petits succès au fil de mon parcours.
 
-Passionné par le back-end, j'aimerais  présenter mon projet personnel, "Dash-Blog".
+L'interface d'administration:
+
+[dash_blog_banner](./banner.png)
 
 ### 🚀 À Propos de Dash-Blog
 Dash-Blog n'est pas encore un blog complet, mais c'est mon terrain de jeu pour perfectionner mes compétences en back-end avec PHP. Il offre actuellement les fonctionnalités suivantes :
